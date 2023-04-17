@@ -2,7 +2,7 @@
 <h3>Olá, obrigado por visitar meu perfil no GitHub 👋</h3>
 <br>
 <br>
-Me chamo Luckas Matos, sou programador Front-End e em progresso de evoluçãp para Full Stack. Atualmente crio aplicações utilizando:
+Me chamo Luckas Matos, sou desenvolvedor Front-End e em progresso de evolução para Full Stack. Atualmente crio aplicações utilizando:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
