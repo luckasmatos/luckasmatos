@@ -20,6 +20,7 @@ Clique 👉<a href="https://github.com/luckasmatos?tab=repositories" target="_bl
 <br>
 <p align="center"><img src="https://github.com/luckasmatos/luckasmatos/blob/1e8ec91303f3fe8a8b3cabb84e2f229cbb121e65/GIF-developer.gif" width="40%"></p>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckasmatos)](https://github.com/anuraghazra/github-readme-stats)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 
 
