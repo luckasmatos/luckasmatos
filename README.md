@@ -19,5 +19,6 @@ Estou em fase de aprendizado das seguintes tecnologias:
 Clique 👉<a href="https://github.com/luckasmatos?tab=repositories" target="_blank">AQUI</a>👈 para conhecer meus projetos.
 <br>
 <p align="center"><img src="https://github.com/luckasmatos/luckasmatos/blob/1e8ec91303f3fe8a8b3cabb84e2f229cbb121e65/GIF-developer.gif" width="40%"></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckasmatos)](https://github.com/anuraghazra/github-readme-stats)
 
 
