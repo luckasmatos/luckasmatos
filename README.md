@@ -2,7 +2,7 @@
 <img src="https://github.com/luckasmatos/luckasmatos/blob/7d9741dd74c49948f40a83c3a7c7329099320732/Luckas-Matos-Logo.png" height=200px">
 </p>
 
-<h3>Olá, obrigado por visitar meu perfil no GitHub 👋</h3>
+<h3>Olá, seja muito Bem-vindo ao meu perfil no GitHub!!!</h3>
 <br>
 <br>
 Me chamo Luckas Matos, sou desenvolvedor Front-End e em progresso de evolução para Full Stack.<br>                                      
@@ -24,7 +24,7 @@ Estou em fase de aprendizado das seguintes tecnologias:
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 <br>
-Clique 👉<a href="https://github.com/luckasmatos?tab=repositories" target="_blank">AQUI</a>👈 para conhecer meus projetos.
+Não deixe de conhecer meus projetos desenvolvidos clicando 👉<a href="https://github.com/luckasmatos?tab=repositories" target="_blank">AQUI</a>👈
 <br>
 <br>
 
