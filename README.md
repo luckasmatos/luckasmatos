@@ -60,10 +60,10 @@ Atualmente desenvolvo aplicações web com foco em:<br> <br>
   </li>
 </ul><br><br>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckasmatos&layout=compact&langs_count=7&theme=dracula"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckasmatos&layout=compact&langs_count=7&theme=dracula"/><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luckasmatos&amp;theme=radical">
-</div>
+
 
 
 
